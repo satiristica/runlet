@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Runlet.Cli/Runlet.Cli.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Runlet.Tests/Runlet.Tests.csproj" />
+  </Folder>
+</Solution>
